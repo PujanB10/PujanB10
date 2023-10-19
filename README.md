@@ -3,7 +3,7 @@
 
 ## 🔍 About Me
 
-I'm a passionate Flutter developer with experience in building intuitive and scalable mobile applications. While Flutter and Dart have been my primary focus lately, I have a background in Python and always enjoy exploring new technologies.
+I'm a passionate Flutter developer with experience in building intuitive and scalable mobile applications. While Flutter and Dart have been my primary focus lately, I have a background in Python, Linux and always enjoy exploring new technologies.
 
 ### 📈 GitHub Stats
 
