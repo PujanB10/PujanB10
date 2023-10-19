@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Pujan]
+# 👋 Hi there! I'm Pujan
 
 
 ## 🔍 About Me
