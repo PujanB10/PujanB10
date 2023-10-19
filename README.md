@@ -11,7 +11,7 @@ I'm a passionate Flutter developer with experience in building intuitive and sca
 
 ### 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/pujanb/)
+- <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/pujanb/)
 - 📧 Email: bhattaraipoozan@gmail.com
 
 ## Language Tools
