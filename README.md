@@ -10,9 +10,12 @@ I'm a passionate Flutter developer with experience in building intuitive and sca
 ![Your github stats](https://github-readme-stats.vercel.app/api?username=PujanB10&show_icons=true)
 
 ### 📫 How to reach me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/pujanb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/pujannb"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+</p>
+📧 Email: bhattaraipoozan@gmail.com
 
-- <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/pujanb/)
-- 📧 Email: bhattaraipoozan@gmail.com
 
 ## Language Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PujanB10)](https://github.com/PujanB10/github-readme-stats)
