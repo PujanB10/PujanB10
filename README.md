@@ -1,16 +1,26 @@
-### Hi there 👋
+# 👋 Hi there! I'm [Pujan]
 
-<!--
-**PujanB10/PujanB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Flutter developer with experience in building intuitive and scalable mobile applications. While Flutter and Dart have been my primary focus lately, I have a background in Python and always enjoy exploring new technologies.
+
+### 📈 GitHub Stats
+
+![Your github stats](https://github-readme-stats.vercel.app/api?username=PujanB10&show_icons=true)
+
+### 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/pujanb/)
+- 📧 Email: bhattaraipoozan@gmail.com
+
+## Language Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PujanB10)](https://github.com/PujanB10/github-readme-stats)
+
+---
+
+❤️ If you like my work, consider [starring ⭐](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars) the repositories you find interesting!
+
+---
+
+🔗 Visit my [portfolio](https://pujanb.com.np/) to know more about my work.
